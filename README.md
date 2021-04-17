@@ -1,4 +1,4 @@
-# gloves
+# Are people starting to use gloves to handle bats
  An R script to create a graph of the change in glove wearing among bat handlers on iNaturalist
  
  The script takes a CSV file containing a binary factor (gloves/hands), the URL of an iNaturlist observation and a year.
