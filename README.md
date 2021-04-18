@@ -10,3 +10,6 @@
  The second part of the script uses the iNaturalist API to extract the observation date and then uses a logistic model to fit and plot the data.
  
  ![Probability that the person will be using gloves to handle a bat](/gloveprobability.jpg)
+ 
+ ![A map of those observations with coordinates](/glovemap.jpg)
+
